@@ -12,7 +12,6 @@
 | `FootballGraph.bak` | Резервная копия базы данных |
 | `FootballGraph.drawio` | Диаграммы |
 | `FootballGraph.pbix` | Визуализация в Power BI (Force-Directed Grap) |
-| `PowerBI_queries.sql` | SQL-запросы для подключения Power BI |
 | `images/` | Картинки для Force-Directed Graph |
 
 ## Технологии
