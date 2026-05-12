@@ -1,0 +1,658 @@
+<mxfile host="app.diagrams.net" agent="lab" pages="4">
+  <diagram name="Узлы" id="1_Nodes">
+    <mxGraphModel dx="1585" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1_Nodes_p1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="1 Messi" vertex="1">
+          <mxGeometry height="50" width="90" x="120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="2 Ronaldo" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="3 Neymar" vertex="1">
+          <mxGeometry height="50" width="90" x="460" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="4 Mbappe" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="5 Suarez" vertex="1">
+          <mxGeometry height="50" width="90" x="800" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="6 Ramos" vertex="1">
+          <mxGeometry height="50" width="90" x="970" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="7 T.Silva" vertex="1">
+          <mxGeometry height="50" width="90" x="120" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="8 Busquets" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="9 Di Maria" vertex="1">
+          <mxGeometry height="50" width="90" x="460" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="10 Ibrahimovic" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="11 Bale" vertex="1">
+          <mxGeometry height="50" width="90" x="800" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_p12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="12 Cavani" vertex="1">
+          <mxGeometry height="50" width="90" x="970" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="1 Barcelona" vertex="1">
+          <mxGeometry height="50" width="130" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="2 Real Madrid" vertex="1">
+          <mxGeometry height="50" width="130" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="3 PSG" vertex="1">
+          <mxGeometry height="50" width="130" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="4 Man United" vertex="1">
+          <mxGeometry height="50" width="130" x="760" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="5 Juventus" vertex="1">
+          <mxGeometry height="50" width="130" x="960" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="6 AC Milan" vertex="1">
+          <mxGeometry height="50" width="130" x="160" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="7 Inter Miami" vertex="1">
+          <mxGeometry height="50" width="130" x="360" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="8 Al-Nassr" vertex="1">
+          <mxGeometry height="50" width="130" x="560" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="9 Tottenham" vertex="1">
+          <mxGeometry height="50" width="130" x="760" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_c10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="10 Santos" vertex="1">
+          <mxGeometry height="50" width="130" x="960" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co1" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="1 Spain" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co2" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="2 France" vertex="1">
+          <mxGeometry height="50" width="110" x="360" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co3" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="3 England" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co4" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="4 Italy" vertex="1">
+          <mxGeometry height="50" width="110" x="760" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co5" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="5 USA" vertex="1">
+          <mxGeometry height="50" width="110" x="960" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co6" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="6 Saudi Arabia" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co7" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="7 Brazil" vertex="1">
+          <mxGeometry height="50" width="110" x="360" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co8" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="8 Argentina" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co9" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="9 Portugal" vertex="1">
+          <mxGeometry height="50" width="110" x="760" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_co10" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="10 Uruguay" vertex="1">
+          <mxGeometry height="50" width="110" x="960" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" value="Страница 1. Узлы (Player, Club, Country)" vertex="1">
+          <mxGeometry height="30" width="600" x="420" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_leg_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontStyle=1;" value="Условные обозначения" vertex="1">
+          <mxGeometry height="20" width="250" x="1100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_leg_p" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="Player" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_leg_c" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="Club" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1_Nodes_leg_co" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="Country" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Трансферы" id="2_TransferredTo">
+    <mxGraphModel dx="1585" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2_TransferredTo_p1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="1 Messi" vertex="1">
+          <mxGeometry height="50" width="90" x="120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="2 Ronaldo" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="3 Neymar" vertex="1">
+          <mxGeometry height="50" width="90" x="460" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="4 Mbappe" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="5 Suarez" vertex="1">
+          <mxGeometry height="50" width="90" x="800" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="6 Ramos" vertex="1">
+          <mxGeometry height="50" width="90" x="970" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="7 T.Silva" vertex="1">
+          <mxGeometry height="50" width="90" x="120" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="8 Busquets" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="9 Di Maria" vertex="1">
+          <mxGeometry height="50" width="90" x="460" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="10 Ibrahimovic" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="11 Bale" vertex="1">
+          <mxGeometry height="50" width="90" x="800" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_p12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="12 Cavani" vertex="1">
+          <mxGeometry height="50" width="90" x="970" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="1 Barcelona" vertex="1">
+          <mxGeometry height="50" width="130" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="2 Real Madrid" vertex="1">
+          <mxGeometry height="50" width="130" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="3 PSG" vertex="1">
+          <mxGeometry height="50" width="130" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="4 Man United" vertex="1">
+          <mxGeometry height="50" width="130" x="760" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="5 Juventus" vertex="1">
+          <mxGeometry height="50" width="130" x="960" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="6 AC Milan" vertex="1">
+          <mxGeometry height="50" width="130" x="160" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="7 Inter Miami" vertex="1">
+          <mxGeometry height="50" width="130" x="360" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="8 Al-Nassr" vertex="1">
+          <mxGeometry height="50" width="130" x="560" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="9 Tottenham" vertex="1">
+          <mxGeometry height="50" width="130" x="760" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_c10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="10 Santos" vertex="1">
+          <mxGeometry height="50" width="130" x="960" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co1" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="1 Spain" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co2" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="2 France" vertex="1">
+          <mxGeometry height="50" width="110" x="360" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co3" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="3 England" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co4" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="4 Italy" vertex="1">
+          <mxGeometry height="50" width="110" x="760" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co5" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="5 USA" vertex="1">
+          <mxGeometry height="50" width="110" x="960" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co6" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="6 Saudi Arabia" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co7" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="7 Brazil" vertex="1">
+          <mxGeometry height="50" width="110" x="360" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co8" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="8 Argentina" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co9" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="9 Portugal" vertex="1">
+          <mxGeometry height="50" width="110" x="760" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_co10" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="10 Uruguay" vertex="1">
+          <mxGeometry height="50" width="110" x="960" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" value="Страница 2. Рёбра (история трансферов)" vertex="1">
+          <mxGeometry height="30" width="600" x="420" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t1" edge="1" parent="1" source="2_TransferredTo_p1" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c1" value="2004 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t2" edge="1" parent="1" source="2_TransferredTo_p1" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c3" value="2021 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t3" edge="1" parent="1" source="2_TransferredTo_p1" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c7" value="2023 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t4" edge="1" parent="1" source="2_TransferredTo_p2" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c4" value="2003 12.2M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t5" edge="1" parent="1" source="2_TransferredTo_p2" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c2" value="2009 94.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t6" edge="1" parent="1" source="2_TransferredTo_p2" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c5" value="2018 100.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t7" edge="1" parent="1" source="2_TransferredTo_p2" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c4" value="2021 15.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t8" edge="1" parent="1" source="2_TransferredTo_p2" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c8" value="2023 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t9" edge="1" parent="1" source="2_TransferredTo_p3" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c10" value="2009 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t10" edge="1" parent="1" source="2_TransferredTo_p3" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c1" value="2013 57.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t11" edge="1" parent="1" source="2_TransferredTo_p3" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c3" value="2017 222.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t12" edge="1" parent="1" source="2_TransferredTo_p4" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c3" value="2017 180.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t13" edge="1" parent="1" source="2_TransferredTo_p4" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c2" value="2024 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t14" edge="1" parent="1" source="2_TransferredTo_p5" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c1" value="2014 82.3M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t15" edge="1" parent="1" source="2_TransferredTo_p5" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c7" value="2024 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t16" edge="1" parent="1" source="2_TransferredTo_p6" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c2" value="2005 27.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t17" edge="1" parent="1" source="2_TransferredTo_p6" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c3" value="2021 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t18" edge="1" parent="1" source="2_TransferredTo_p7" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c6" value="2009 10.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t19" edge="1" parent="1" source="2_TransferredTo_p7" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c3" value="2012 42.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t20" edge="1" parent="1" source="2_TransferredTo_p8" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c1" value="2008 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t21" edge="1" parent="1" source="2_TransferredTo_p8" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c7" value="2023 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t22" edge="1" parent="1" source="2_TransferredTo_p9" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c2" value="2010 25.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t23" edge="1" parent="1" source="2_TransferredTo_p9" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c4" value="2014 75.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t24" edge="1" parent="1" source="2_TransferredTo_p9" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c3" value="2015 63.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t25" edge="1" parent="1" source="2_TransferredTo_p9" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c5" value="2022 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t26" edge="1" parent="1" source="2_TransferredTo_p10" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c5" value="2004 16.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t27" edge="1" parent="1" source="2_TransferredTo_p10" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c1" value="2009 69.5M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t28" edge="1" parent="1" source="2_TransferredTo_p10" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c6" value="2010 24.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t29" edge="1" parent="1" source="2_TransferredTo_p10" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c3" value="2012 20.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t30" edge="1" parent="1" source="2_TransferredTo_p10" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c4" value="2016 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t31" edge="1" parent="1" source="2_TransferredTo_p11" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c9" value="2007 10.0M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t32" edge="1" parent="1" source="2_TransferredTo_p11" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c2" value="2013 100.8M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t33" edge="1" parent="1" source="2_TransferredTo_p11" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c9" value="2020 (loan)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t34" edge="1" parent="1" source="2_TransferredTo_p12" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c3" value="2013 64.5M€">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_t35" edge="1" parent="1" source="2_TransferredTo_p12" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;fontSize=9;" target="2_TransferredTo_c4" value="2020 (free)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_leg_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontStyle=1;" value="Условные обозначения" vertex="1">
+          <mxGeometry height="20" width="250" x="1100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_leg_p" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="Player" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_leg_c" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="Club" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_leg_co" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="Country" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2_TransferredTo_leg_e" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#0066CC;fontStyle=1;" value="── TransferredTo (Player → Club)" vertex="1">
+          <mxGeometry height="40" width="250" x="1100" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Национальности" id="3_Nationality">
+    <mxGraphModel dx="1585" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3_Nationality_p1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="1 Messi" vertex="1">
+          <mxGeometry height="50" width="90" x="120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="2 Ronaldo" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="3 Neymar" vertex="1">
+          <mxGeometry height="50" width="90" x="460" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="4 Mbappe" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="5 Suarez" vertex="1">
+          <mxGeometry height="50" width="90" x="800" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="6 Ramos" vertex="1">
+          <mxGeometry height="50" width="90" x="970" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="7 T.Silva" vertex="1">
+          <mxGeometry height="50" width="90" x="120" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="8 Busquets" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="9 Di Maria" vertex="1">
+          <mxGeometry height="50" width="90" x="460" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="10 Ibrahimovic" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="11 Bale" vertex="1">
+          <mxGeometry height="50" width="90" x="800" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_p12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="12 Cavani" vertex="1">
+          <mxGeometry height="50" width="90" x="970" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="1 Barcelona" vertex="1">
+          <mxGeometry height="50" width="130" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="2 Real Madrid" vertex="1">
+          <mxGeometry height="50" width="130" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="3 PSG" vertex="1">
+          <mxGeometry height="50" width="130" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="4 Man United" vertex="1">
+          <mxGeometry height="50" width="130" x="760" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="5 Juventus" vertex="1">
+          <mxGeometry height="50" width="130" x="960" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="6 AC Milan" vertex="1">
+          <mxGeometry height="50" width="130" x="160" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="7 Inter Miami" vertex="1">
+          <mxGeometry height="50" width="130" x="360" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="8 Al-Nassr" vertex="1">
+          <mxGeometry height="50" width="130" x="560" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="9 Tottenham" vertex="1">
+          <mxGeometry height="50" width="130" x="760" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_c10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="10 Santos" vertex="1">
+          <mxGeometry height="50" width="130" x="960" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co1" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="1 Spain" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co2" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="2 France" vertex="1">
+          <mxGeometry height="50" width="110" x="360" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co3" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="3 England" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co4" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="4 Italy" vertex="1">
+          <mxGeometry height="50" width="110" x="760" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co5" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="5 USA" vertex="1">
+          <mxGeometry height="50" width="110" x="960" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co6" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="6 Saudi Arabia" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co7" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="7 Brazil" vertex="1">
+          <mxGeometry height="50" width="110" x="360" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co8" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="8 Argentina" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co9" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="9 Portugal" vertex="1">
+          <mxGeometry height="50" width="110" x="760" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_co10" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="10 Uruguay" vertex="1">
+          <mxGeometry height="50" width="110" x="960" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" value="Страница 3. Рёбра (гражданство игроков)" vertex="1">
+          <mxGeometry height="30" width="600" x="420" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc1" edge="1" parent="1" source="3_Nationality_p1" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc2" edge="1" parent="1" source="3_Nationality_p2" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc3" edge="1" parent="1" source="3_Nationality_p3" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc4" edge="1" parent="1" source="3_Nationality_p4" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc5" edge="1" parent="1" source="3_Nationality_p5" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc6" edge="1" parent="1" source="3_Nationality_p6" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc7" edge="1" parent="1" source="3_Nationality_p7" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc8" edge="1" parent="1" source="3_Nationality_p8" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc9" edge="1" parent="1" source="3_Nationality_p9" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc10" edge="1" parent="1" source="3_Nationality_p10" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc11" edge="1" parent="1" source="3_Nationality_p11" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_pc12" edge="1" parent="1" source="3_Nationality_p12" style="endArrow=classic;html=1;rounded=0;strokeColor=#6A9153;fontSize=9;dashed=1;" target="3_Nationality_co10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_leg_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontStyle=1;" value="Условные обозначения" vertex="1">
+          <mxGeometry height="20" width="250" x="1100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_leg_p" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="Player" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_leg_c" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="Club" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_leg_co" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="Country" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3_Nationality_leg_e" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#6A9153;fontStyle=1;" value="-- PlayerNationality (Player → Country)" vertex="1">
+          <mxGeometry height="40" width="250" x="1100" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Страны клубов" id="4_ClubFromCountry">
+    <mxGraphModel dx="1585" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4_ClubFromCountry_p1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="1 Messi" vertex="1">
+          <mxGeometry height="50" width="90" x="120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="2 Ronaldo" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p3" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="3 Neymar" vertex="1">
+          <mxGeometry height="50" width="90" x="460" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="4 Mbappe" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="5 Suarez" vertex="1">
+          <mxGeometry height="50" width="90" x="800" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="6 Ramos" vertex="1">
+          <mxGeometry height="50" width="90" x="970" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="7 T.Silva" vertex="1">
+          <mxGeometry height="50" width="90" x="120" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="8 Busquets" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="9 Di Maria" vertex="1">
+          <mxGeometry height="50" width="90" x="460" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="10 Ibrahimovic" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="11 Bale" vertex="1">
+          <mxGeometry height="50" width="90" x="800" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_p12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="12 Cavani" vertex="1">
+          <mxGeometry height="50" width="90" x="970" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="1 Barcelona" vertex="1">
+          <mxGeometry height="50" width="130" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="2 Real Madrid" vertex="1">
+          <mxGeometry height="50" width="130" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="3 PSG" vertex="1">
+          <mxGeometry height="50" width="130" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="4 Man United" vertex="1">
+          <mxGeometry height="50" width="130" x="760" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="5 Juventus" vertex="1">
+          <mxGeometry height="50" width="130" x="960" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="6 AC Milan" vertex="1">
+          <mxGeometry height="50" width="130" x="160" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="7 Inter Miami" vertex="1">
+          <mxGeometry height="50" width="130" x="360" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="8 Al-Nassr" vertex="1">
+          <mxGeometry height="50" width="130" x="560" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="9 Tottenham" vertex="1">
+          <mxGeometry height="50" width="130" x="760" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_c10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="10 Santos" vertex="1">
+          <mxGeometry height="50" width="130" x="960" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co1" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="1 Spain" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co2" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="2 France" vertex="1">
+          <mxGeometry height="50" width="110" x="360" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co3" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="3 England" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co4" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="4 Italy" vertex="1">
+          <mxGeometry height="50" width="110" x="760" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co5" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="5 USA" vertex="1">
+          <mxGeometry height="50" width="110" x="960" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co6" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="6 Saudi Arabia" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co7" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="7 Brazil" vertex="1">
+          <mxGeometry height="50" width="110" x="360" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co8" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="8 Argentina" vertex="1">
+          <mxGeometry height="50" width="110" x="560" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co9" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="9 Portugal" vertex="1">
+          <mxGeometry height="50" width="110" x="760" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_co10" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="10 Uruguay" vertex="1">
+          <mxGeometry height="50" width="110" x="960" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=18;fontStyle=1;" value="Страница 4. Рёбра&amp;nbsp; (клуб → страна)" vertex="1">
+          <mxGeometry height="30" width="600" x="420" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc1" edge="1" parent="1" source="4_ClubFromCountry_c1" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc2" edge="1" parent="1" source="4_ClubFromCountry_c2" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc3" edge="1" parent="1" source="4_ClubFromCountry_c3" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc4" edge="1" parent="1" source="4_ClubFromCountry_c4" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc5" edge="1" parent="1" source="4_ClubFromCountry_c5" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc6" edge="1" parent="1" source="4_ClubFromCountry_c6" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc7" edge="1" parent="1" source="4_ClubFromCountry_c7" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc8" edge="1" parent="1" source="4_ClubFromCountry_c8" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc9" edge="1" parent="1" source="4_ClubFromCountry_c9" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_cc10" edge="1" parent="1" source="4_ClubFromCountry_c10" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;fontSize=9;dashed=0;" target="4_ClubFromCountry_co7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_leg_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontStyle=1;" value="Условные обозначения" vertex="1">
+          <mxGeometry height="20" width="250" x="1100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_leg_p" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;" value="Player" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_leg_c" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="Club" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_leg_co" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" value="Country" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4_ClubFromCountry_leg_e" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#B85450;fontStyle=1;" value="── ClubFromCountry (Club → Country)" vertex="1">
+          <mxGeometry height="40" width="250" x="1100" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
